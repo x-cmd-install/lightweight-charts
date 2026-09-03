@@ -1,0 +1,62 @@
+about:
+  description: Performant financial charts built with HTML5 canvas
+  license: Apache-2.0
+  homepage: https://www.tradingview.com/lightweight-charts/
+  head: 51e32d0
+  archived: false
+  latestVersion: v5.2.1
+  collectedAt: 2026-09-03T04:42:53Z
+timeline:
+  created: 2019-05-24
+  lastCommit: 2026-09-02
+  lastRelease: 2026-08-12
+popularity:
+  star: 17158
+  watcher: 207
+  fork: 2584
+  release: 48
+  contributor: 63
+  pullRequest: 118
+  issue: 1186
+language:
+  TypeScript: 1762737
+  JavaScript: 1177471
+  HTML: 372393
+  MDX: 326597
+  CSS: 46325
+  Vue: 11974
+  Shell: 4836
+totalLine: 3702333
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 1
+    mergedPR: 4
+    openPR: 2
+    closedIssue: 0
+    openIssue: 0
+    commit: 14
+  last90d:
+    since: 2026-06-05
+    release: 1
+    mergedPR: 11
+    openPR: 7
+    closedIssue: 2
+    openIssue: 1
+    commit: 29
+  last180d:
+    since: 2026-03-07
+    release: 2
+    mergedPR: 17
+    openPR: 9
+    closedIssue: 5
+    openIssue: 3
+    commit: 61
+  last360d:
+    since: 2025-09-08
+    release: 4
+    mergedPR: 37
+    openPR: 12
+    closedIssue: 32
+    openIssue: 17
+    commit: 106
