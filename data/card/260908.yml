@@ -5,13 +5,13 @@ about:
   head: baf9014
   archived: false
   latestVersion: "v5.2.1"
-  collectedAt: 2026-09-08T02:06:09Z
+  collectedAt: 2026-09-08T04:48:44Z
 timeline:
   created: 2019-05-24
   lastCommit: 2026-09-07
   lastRelease: 2026-08-12
 popularity:
-  star: 17200
+  star: 17201
   watcher: 209
   fork: 2593
   release: 48
@@ -85,7 +85,7 @@ total:
   commit: 3184
 ---
 path: /home/runner/.x-repo/github.com/tradingview/lightweight-charts
-collectedAt: 2026-09-08T02:07:15Z
+collectedAt: 2026-09-08T04:49:39Z
 loc:
   TypeScript:
     code: 42117
