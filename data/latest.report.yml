@@ -7,7 +7,7 @@ about:
   latestVersion: "v5.2.1"
   latestRelease: "v5.2.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T00:05:28Z
+  collectedAt: 2026-09-11T04:52:27Z
 timeline:
   created: 2019-05-24
   lastCommit: 2026-09-10
@@ -16,12 +16,12 @@ timeline:
   lastPrerelease: 
 popularity:
   star: 17232
-  watcher: 209
-  fork: 2595
+  watcher: 208
+  fork: 2594
   release: 48
   contributor: 62
   pullRequest: 632
-  issue: 1187
+  issue: 1188
 language:
   TypeScript: 1820745
   JavaScript: 1258440
@@ -38,7 +38,7 @@ recent:
     mergedPR: 11
     openPR: 9
     closedIssue: 0
-    openIssue: 1
+    openIssue: 2
     commit: 43
   last60d:
     since: 2026-07-13
@@ -46,7 +46,7 @@ recent:
     mergedPR: 12
     openPR: 12
     closedIssue: 0
-    openIssue: 2
+    openIssue: 3
     commit: 46
   last90d:
     since: 2026-06-13
@@ -54,7 +54,7 @@ recent:
     mergedPR: 16
     openPR: 14
     closedIssue: 1
-    openIssue: 2
+    openIssue: 3
     commit: 54
   last180d:
     since: 2026-03-15
@@ -62,7 +62,7 @@ recent:
     mergedPR: 23
     openPR: 16
     closedIssue: 5
-    openIssue: 4
+    openIssue: 5
     commit: 91
   last360d:
     since: 2025-09-16
@@ -70,7 +70,7 @@ recent:
     mergedPR: 42
     openPR: 19
     closedIssue: 29
-    openIssue: 18
+    openIssue: 19
     commit: 135
   last720d:
     since: 2024-09-21
@@ -78,18 +78,18 @@ recent:
     mergedPR: 121
     openPR: 22
     closedIssue: 138
-    openIssue: 50
+    openIssue: 51
     commit: 556
 total:
   release: 48
   mergedPR: 506
   openPR: 23
   closedIssue: 1074
-  openIssue: 113
+  openIssue: 114
   commit: 3193
 ---
 path: /home/runner/.x-repo/github.com/tradingview/lightweight-charts
-collectedAt: 2026-09-11T00:06:16Z
+collectedAt: 2026-09-11T04:53:22Z
 loc:
   TypeScript:
     code: 42610
