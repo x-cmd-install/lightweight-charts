@@ -12,34 +12,7 @@ Performant financial charts built with HTML5 canvas
 x install lightweight-charts
 ```
 
-## 源代码
-
-- **上游仓库**: <https://github.com/tradingview/lightweight-charts>
-- **官网**: <https://www.tradingview.com/lightweight-charts/>
-- **许可证**: Apache-2.0
-
-## 发布
-
-- **最新版本**: `v5.2.1` (2026-08-12)
-- **最近提交**: 2026-09-10
-
-## 流行度
-
-- **Star**: 17,228 · **Fork**: 2,596 · **开放 issue**: 1,186 · **贡献者**: 62
-
-## 累计统计
-
-- **发布数**: 48 · **已合并 PR**: 506 · **开放 PR**: 22 · **已关闭 issue**: 1074 · **开放 issue**: 112 · **提交数**: 3193
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 11 | 8 | 0 | 0 | 43 |
-| 90d | 2026-06-12 | 1 | 16 | 13 | 1 | 1 | 54 |
-| 360d | 2025-09-15 | 4 | 43 | 18 | 29 | 17 | 135 |
-
-## 代码规模
+## 代码洞察
 
 合计: **109,420** 行代码（覆盖前 5 种语言、共 **1209** 个文件）。
 
@@ -61,6 +34,36 @@ x install lightweight-charts
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Security-Policy** (0/10) — security policy file not detected
 
+## 源代码
+
+- **上游仓库**: <https://github.com/tradingview/lightweight-charts>
+- **官网**: <https://www.tradingview.com/lightweight-charts/>
+- **许可证**: Apache-2.0
+
+## 发布
+
+- **最新版本**: `v5.2.1` (2026-08-12)
+- **最近提交**: 2026-09-10
+
+## 流行度
+
+- **Star**: 17,232 · **Fork**: 2,595 · **开放 issue**: 1,187 · **贡献者**: 62
+
+## 累计统计
+
+- **发布数**: 48 · **已合并 PR**: 506 · **开放 PR**: 23 · **已关闭 issue**: 1074 · **开放 issue**: 113 · **提交数**: 3193
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 1 | 11 | 9 | 0 | 1 | 43 |
+| last60d | 2026-07-13 | 1 | 12 | 12 | 0 | 2 | 46 |
+| 90d | 2026-06-13 | 1 | 16 | 14 | 1 | 2 | 54 |
+| last180d | 2026-03-15 | 2 | 23 | 16 | 5 | 4 | 91 |
+| 360d | 2025-09-16 | 4 | 42 | 19 | 29 | 18 | 135 |
+| last720d | 2024-09-21 | 15 | 121 | 22 | 138 | 50 | 556 |
+
 ## 改进这些数据
 
 lightweight-charts 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `lightweight-charts` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -70,4 +73,4 @@ lightweight-charts 的安装元数据由 [x-cmd/install](https://github.com/x-cm
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:39:34Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T00:06:20Z._

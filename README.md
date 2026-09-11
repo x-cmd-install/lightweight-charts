@@ -12,34 +12,7 @@ Performant financial charts built with HTML5 canvas
 x install lightweight-charts
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/tradingview/lightweight-charts>
-- **Homepage**: <https://www.tradingview.com/lightweight-charts/>
-- **License**: Apache-2.0
-
-## Release
-
-- **Latest**: `v5.2.1` (2026-08-12)
-- **Last commit**: 2026-09-10
-
-## Popularity
-
-- **Stars**: 17,228 · **Forks**: 2,596 · **Open issues**: 1,186 · **Contributors**: 62
-
-## Totals (cumulative)
-
-- **Releases**: 48 · **Merged PRs**: 506 · **Open PRs**: 22 · **Closed issues**: 1074 · **Open issues**: 112 · **Commits**: 3193
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 11 | 8 | 0 | 0 | 43 |
-| 90d | 2026-06-12 | 1 | 16 | 13 | 1 | 1 | 54 |
-| 360d | 2025-09-15 | 4 | 43 | 18 | 29 | 17 | 135 |
-
-## Code size
+## Code insight
 
 Total: **109,420** lines of code across **1209** files in the top 5 languages.
 
@@ -61,6 +34,36 @@ Lowest-scoring checks:
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Security-Policy** (0/10) — security policy file not detected
 
+## Source
+
+- **Upstream**: <https://github.com/tradingview/lightweight-charts>
+- **Homepage**: <https://www.tradingview.com/lightweight-charts/>
+- **License**: Apache-2.0
+
+## Release
+
+- **Latest**: `v5.2.1` (2026-08-12)
+- **Last commit**: 2026-09-10
+
+## Popularity
+
+- **Stars**: 17,232 · **Forks**: 2,595 · **Open issues**: 1,187 · **Contributors**: 62
+
+## Totals (cumulative)
+
+- **Releases**: 48 · **Merged PRs**: 506 · **Open PRs**: 23 · **Closed issues**: 1074 · **Open issues**: 113 · **Commits**: 3193
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 1 | 11 | 9 | 0 | 1 | 43 |
+| last60d | 2026-07-13 | 1 | 12 | 12 | 0 | 2 | 46 |
+| 90d | 2026-06-13 | 1 | 16 | 14 | 1 | 2 | 54 |
+| last180d | 2026-03-15 | 2 | 23 | 16 | 5 | 4 | 91 |
+| 360d | 2025-09-16 | 4 | 42 | 19 | 29 | 18 | 135 |
+| last720d | 2024-09-21 | 15 | 121 | 22 | 138 | 50 | 556 |
+
 ## Improve this data
 
 Install metadata for lightweight-charts lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `lightweight-charts` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -70,4 +73,4 @@ Install metadata for lightweight-charts lives in the [x-cmd/install](https://git
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:39:33Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:06:19Z._
