@@ -4,7 +4,7 @@
 
 Performant financial charts built with HTML5 canvas
 
-[![x-cmd/install — lightweight-charts Code Quality Monitoring Repo Card](https://repo.x-cmd.io/lightweight-charts.svg?lang=zh)](https://x-cmd.com/install/lightweight-charts)
+[![x-cmd/install — lightweight-charts Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/lightweight-charts.svg?lang=zh)](https://x-cmd.com/install/lightweight-charts)
 
 ## 安装
 
@@ -26,7 +26,7 @@ x install lightweight-charts
 
 ## OpenSSF Scorecard 评分
 
-总评分: **8 / 10**
+总评分: **7.6 / 10**
 
 评分最低的几项:
 
@@ -47,7 +47,7 @@ x install lightweight-charts
 
 ## 流行度
 
-- **Star**: 17,328 · **Fork**: 2,606 · **开放 issue**: 1,188 · **贡献者**: 62
+- **Star**: 17,335 · **Fork**: 2,606 · **开放 issue**: 1,188 · **贡献者**: 62
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install lightweight-charts
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 23 | 3 | 0 | 2 | 177 |
-| last60d | 2026-07-24 | 2 | 25 | 5 | 0 | 2 | 182 |
-| 90d | 2026-06-24 | 2 | 27 | 8 | 1 | 3 | 186 |
-| last180d | 2026-03-26 | 3 | 36 | 10 | 5 | 5 | 227 |
-| 360d | 2025-09-27 | 5 | 55 | 13 | 29 | 19 | 267 |
-| last720d | 2024-10-02 | 16 | 132 | 15 | 137 | 50 | 701 |
+| 30d | 2026-08-24 | 1 | 23 | 3 | 0 | 2 | 177 |
+| last60d | 2026-07-25 | 2 | 25 | 5 | 0 | 2 | 182 |
+| 90d | 2026-06-25 | 2 | 27 | 8 | 1 | 3 | 186 |
+| last180d | 2026-03-27 | 3 | 36 | 10 | 5 | 5 | 227 |
+| 360d | 2025-09-28 | 5 | 55 | 13 | 28 | 19 | 267 |
+| last720d | 2024-10-03 | 15 | 132 | 15 | 137 | 50 | 697 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ lightweight-charts 的安装元数据由 [x-cmd/install](https://github.com/x-cm
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:30:02Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:10:34Z._

@@ -4,7 +4,7 @@
 
 Performant financial charts built with HTML5 canvas
 
-[![x-cmd/install — lightweight-charts Code Quality Monitoring Repo Card](https://repo.x-cmd.io/lightweight-charts.svg)](https://x-cmd.com/install/lightweight-charts)
+[![x-cmd/install — lightweight-charts Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/lightweight-charts.svg)](https://x-cmd.com/install/lightweight-charts)
 
 ## Install
 
@@ -26,7 +26,7 @@ Total: **130,176** lines of code across **1607** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **8 / 10**
+Overall score: **7.6 / 10**
 
 Lowest-scoring checks:
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 17,328 · **Forks**: 2,606 · **Open issues**: 1,188 · **Contributors**: 62
+- **Stars**: 17,335 · **Forks**: 2,606 · **Open issues**: 1,188 · **Contributors**: 62
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 23 | 3 | 0 | 2 | 177 |
-| last60d | 2026-07-24 | 2 | 25 | 5 | 0 | 2 | 182 |
-| 90d | 2026-06-24 | 2 | 27 | 8 | 1 | 3 | 186 |
-| last180d | 2026-03-26 | 3 | 36 | 10 | 5 | 5 | 227 |
-| 360d | 2025-09-27 | 5 | 55 | 13 | 29 | 19 | 267 |
-| last720d | 2024-10-02 | 16 | 132 | 15 | 137 | 50 | 701 |
+| 30d | 2026-08-24 | 1 | 23 | 3 | 0 | 2 | 177 |
+| last60d | 2026-07-25 | 2 | 25 | 5 | 0 | 2 | 182 |
+| 90d | 2026-06-25 | 2 | 27 | 8 | 1 | 3 | 186 |
+| last180d | 2026-03-27 | 3 | 36 | 10 | 5 | 5 | 227 |
+| 360d | 2025-09-28 | 5 | 55 | 13 | 28 | 19 | 267 |
+| last720d | 2024-10-03 | 15 | 132 | 15 | 137 | 50 | 697 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for lightweight-charts lives in the [x-cmd/install](https://git
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:30:01Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:10:33Z._
