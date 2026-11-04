@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 17,750 · **Forks**: 2,679 · **Open issues**: 1,190 · **Contributors**: 66
+- **Stars**: 17,761 · **Forks**: 2,683 · **Open issues**: 1,191 · **Contributors**: 66
 
 ## Totals (cumulative)
 
-- **Releases**: 49 · **Merged PRs**: 539 · **Open PRs**: 27 · **Closed issues**: 1085 · **Open issues**: 105 · **Commits**: 3408
+- **Releases**: 49 · **Merged PRs**: 540 · **Open PRs**: 29 · **Closed issues**: 1085 · **Open issues**: 106 · **Commits**: 3408
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 0 | 11 | 12 | 0 | 0 | 15 |
-| last60d | 2026-09-04 | 1 | 35 | 15 | 3 | 1 | 76 |
-| 90d | 2026-08-05 | 2 | 43 | 15 | 3 | 1 | 227 |
-| last180d | 2026-05-07 | 2 | 52 | 19 | 5 | 2 | 255 |
-| 360d | 2025-11-08 | 4 | 69 | 22 | 22 | 13 | 297 |
-| last720d | 2024-11-13 | 15 | 146 | 25 | 134 | 41 | 754 |
+| 30d | 2026-10-05 | 0 | 12 | 14 | 0 | 1 | 15 |
+| last60d | 2026-09-05 | 1 | 36 | 17 | 3 | 2 | 76 |
+| 90d | 2026-08-06 | 2 | 44 | 17 | 3 | 2 | 227 |
+| last180d | 2026-05-08 | 2 | 53 | 21 | 5 | 3 | 255 |
+| 360d | 2025-11-09 | 4 | 70 | 24 | 22 | 14 | 297 |
+| last720d | 2024-11-14 | 15 | 147 | 27 | 134 | 42 | 751 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for lightweight-charts lives in the [x-cmd/install](https://git
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T07:17:39Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T06:33:10Z._
