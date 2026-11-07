@@ -14,12 +14,12 @@ x install lightweight-charts
 
 ## Code insight
 
-Total: **146,326** lines of code across **1810** files in the top 5 languages.
+Total: **147,715** lines of code across **1820** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 62,706 | 11,622 | 9,888 | 739 |
-| JavaScript | 49,667 | 3,048 | 5,419 | 790 |
+| TypeScript | 63,135 | 11,676 | 9,983 | 742 |
+| JavaScript | 50,627 | 3,245 | 5,591 | 797 |
 | Yaml | 16,953 | 11 | 3,980 | 37 |
 | Json | 8,484 | 0 | 1 | 108 |
 | Html | 2,859 | 214 | 33 | 136 |
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `plugins-2026-09-16` (2026-09-16)
-- **Last commit**: 2026-11-05
+- **Last commit**: 2026-11-06
 
 ## Popularity
 
-- **Stars**: 17,780 · **Forks**: 2,689 · **Open issues**: 1,191 · **Contributors**: 66
+- **Stars**: 17,795 · **Forks**: 2,695 · **Open issues**: 1,191 · **Contributors**: 66
 
 ## Totals (cumulative)
 
-- **Releases**: 49 · **Merged PRs**: 544 · **Open PRs**: 25 · **Closed issues**: 1085 · **Open issues**: 106 · **Commits**: 3423
+- **Releases**: 49 · **Merged PRs**: 546 · **Open PRs**: 24 · **Closed issues**: 1086 · **Open issues**: 105 · **Commits**: 3437
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 14 | 9 | 0 | 1 | 24 |
-| last60d | 2026-09-07 | 1 | 39 | 13 | 3 | 2 | 85 |
-| 90d | 2026-08-08 | 2 | 48 | 13 | 3 | 2 | 236 |
-| last180d | 2026-05-10 | 2 | 57 | 17 | 5 | 3 | 264 |
-| 360d | 2025-11-11 | 4 | 74 | 20 | 22 | 14 | 306 |
-| last720d | 2024-11-16 | 15 | 151 | 23 | 134 | 42 | 765 |
+| 30d | 2026-10-08 | 0 | 14 | 8 | 0 | 1 | 30 |
+| last60d | 2026-09-08 | 1 | 35 | 12 | 3 | 2 | 96 |
+| 90d | 2026-08-09 | 2 | 50 | 12 | 3 | 2 | 247 |
+| last180d | 2026-05-11 | 2 | 59 | 16 | 5 | 3 | 275 |
+| 360d | 2025-11-12 | 4 | 76 | 19 | 21 | 14 | 317 |
+| last720d | 2024-11-17 | 15 | 153 | 22 | 134 | 42 | 779 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for lightweight-charts lives in the [x-cmd/install](https://git
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T06:55:58Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:17:58Z._
