@@ -14,11 +14,11 @@ x install lightweight-charts
 
 ## Code insight
 
-Total: **160,679** lines of code across **2109** files in the top 5 languages.
+Total: **160,720** lines of code across **2109** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 66,523 | 12,993 | 10,518 | 807 |
+| TypeScript | 66,564 | 12,998 | 10,529 | 807 |
 | JavaScript | 56,430 | 3,821 | 6,188 | 969 |
 | Yaml | 18,087 | 19 | 4,154 | 40 |
 | Json | 10,532 | 0 | 1 | 136 |
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `plugins-2026-11-13` (2026-11-13)
-- **Last commit**: 2026-11-13
+- **Last commit**: 2026-11-16
 
 ## Popularity
 
-- **Stars**: 17,865 · **Forks**: 2,714 · **Open issues**: 1,191 · **Contributors**: 76
+- **Stars**: 17,881 · **Forks**: 2,717 · **Open issues**: 1,191 · **Contributors**: 76
 
 ## Totals (cumulative)
 
-- **Releases**: 51 · **Merged PRs**: 572 · **Open PRs**: 6 · **Closed issues**: 1091 · **Open issues**: 100 · **Commits**: 3582
+- **Releases**: 51 · **Merged PRs**: 573 · **Open PRs**: 5 · **Closed issues**: 1091 · **Open issues**: 100 · **Commits**: 3584
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 2 | 33 | 3 | 0 | 1 | 101 |
-| last60d | 2026-09-17 | 2 | 52 | 5 | 2 | 1 | 161 |
-| 90d | 2026-08-18 | 3 | 74 | 5 | 3 | 2 | 339 |
-| last180d | 2026-05-20 | 4 | 82 | 5 | 5 | 3 | 361 |
-| 360d | 2025-11-21 | 6 | 102 | 6 | 21 | 11 | 417 |
-| last720d | 2024-11-26 | 17 | 172 | 6 | 136 | 40 | 908 |
+| 30d | 2026-10-18 | 2 | 34 | 2 | 0 | 1 | 102 |
+| last60d | 2026-09-18 | 2 | 51 | 4 | 2 | 1 | 162 |
+| 90d | 2026-08-19 | 3 | 75 | 4 | 3 | 2 | 340 |
+| last180d | 2026-05-21 | 4 | 83 | 4 | 5 | 3 | 362 |
+| 360d | 2025-11-22 | 6 | 103 | 5 | 21 | 11 | 418 |
+| last720d | 2024-11-27 | 17 | 173 | 5 | 136 | 40 | 908 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for lightweight-charts lives in the [x-cmd/install](https://git
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T06:59:42Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T08:17:03Z._
