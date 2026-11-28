@@ -1,0 +1,245 @@
+about:
+  description: "Performant financial charts built with HTML5 canvas"
+  license: Apache-2.0
+  homepage: https://www.tradingview.com/lightweight-charts/
+  head: cd3aba9
+  archived: false
+  latestVersion: "plugins-2026-11-13"
+  latestRelease: "plugins-2026-11-13"
+  latestPrerelease: ""
+  collectedAt: 2026-11-28T08:02:16Z
+timeline:
+  created: 2019-05-24
+  lastCommit: 2026-11-27
+  lastVersion: 2026-11-13
+  lastRelease: 2026-11-13
+  lastPrerelease: 
+popularity:
+  star: 18007
+  watcher: 204
+  fork: 2746
+  release: 51
+  contributor: 77
+  pullRequest: 714
+  issue: 1195
+language:
+  TypeScript: 3155521
+  JavaScript: 2095758
+  HTML: 440179
+  MDX: 389242
+  CSS: 69554
+  Vue: 11974
+  Shell: 6270
+totalBytes: 6168498
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 2
+    mergedPR: 25
+    openPR: 7
+    closedIssue: 0
+    openIssue: 5
+    commit: 96
+  last60d:
+    since: 2026-09-29
+    release: 2
+    mergedPR: 50
+    openPR: 8
+    closedIssue: 1
+    openIssue: 5
+    commit: 160
+  last90d:
+    since: 2026-08-30
+    release: 3
+    mergedPR: 76
+    openPR: 9
+    closedIssue: 3
+    openIssue: 6
+    commit: 343
+  last180d:
+    since: 2026-06-01
+    release: 4
+    mergedPR: 85
+    openPR: 9
+    closedIssue: 5
+    openIssue: 7
+    commit: 365
+  last360d:
+    since: 2025-12-03
+    release: 6
+    mergedPR: 105
+    openPR: 10
+    closedIssue: 19
+    openIssue: 15
+    commit: 421
+  last720d:
+    since: 2024-12-08
+    release: 16
+    mergedPR: 174
+    openPR: 10
+    closedIssue: 130
+    openIssue: 41
+    commit: 900
+total:
+  release: 51
+  mergedPR: 575
+  openPR: 10
+  closedIssue: 1092
+  openIssue: 103
+  commit: 3588
+---
+path: /home/runner/.x-repo/github.com/tradingview/lightweight-charts
+collectedAt: 2026-11-28T08:03:18Z
+loc:
+  TypeScript:
+    code: 66660
+    comments: 13008
+    blanks: 10545
+    files: 808
+  JavaScript:
+    code: 56487
+    comments: 3821
+    blanks: 6194
+    files: 970
+  Yaml:
+    code: 18087
+    comments: 19
+    blanks: 4154
+    files: 40
+  Json:
+    code: 10532
+    comments: 0
+    blanks: 1
+    files: 136
+  Html:
+    code: 3228
+    comments: 276
+    blanks: 33
+    files: 157
+  Tsx:
+    code: 2590
+    comments: 242
+    blanks: 240
+    files: 25
+  Css:
+    code: 2237
+    comments: 184
+    blanks: 343
+    files: 25
+  Svg:
+    code: 528
+    comments: 4
+    blanks: 3
+    files: 35
+  Jsx:
+    code: 328
+    comments: 21
+    blanks: 53
+    files: 3
+  Sh:
+    code: 178
+    comments: 25
+    blanks: 47
+    files: 7
+  Vue:
+    code: 18
+    comments: 0
+    blanks: 5
+    files: 3
+  Markdown:
+    code: 0
+    comments: 19448
+    blanks: 8110
+    files: 231
+total:
+  code: 178298
+  comments: 38172
+  blanks: 30232
+  files: 2440
+---
+date: "2026-11-16"
+repo:
+  name: github.com/tradingview/lightweight-charts
+  commit: c29c51e1e5bc61981da5832c97797cb8283d120f
+scorecard:
+  version: v5.6.0
+  commit: 61e84743356275f6ffca23b1b2f2cb945e19eb96
+score: 7.4
+checks:
+  - name: Code-Review
+    score: 6
+    reason: Found 8/13 approved changesets -- score normalized to 6
+    details: null
+  - name: Maintained
+    score: 10
+    reason: 30 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 10
+    details: null
+  - name: Packaging
+    score: -1
+    reason: packaging workflow not detected
+    details:
+      - 'Warn: no GitHub/GitLab publishing workflow detected.'
+  - name: Dangerous-Workflow
+    score: 10
+    reason: no dangerous workflow patterns detected
+    details: null
+  - name: Token-Permissions
+    score: 9
+    reason: detected GitHub workflow tokens with excessive permissions
+    details:
+      - 'Info: jobLevel ''contents'' permission set to ''read'': .github/workflows/zizmor.yml:17'
+      - 'Info: jobLevel ''actions'' permission set to ''read'': .github/workflows/zizmor.yml:18'
+      - 'Info: found token with ''none'' permissions: .github/workflows/context7-refresh.yml:1'
+      - 'Warn: no topLevel permission defined: .github/workflows/deploy.yml:1'
+      - 'Info: found token with ''none'' permissions: .github/workflows/pkg-pr-new.yml:1'
+      - 'Info: found token with ''none'' permissions: .github/workflows/plugins-floor.yml:1'
+      - 'Info: found token with ''none'' permissions: .github/workflows/plugins.yml:1'
+      - 'Info: found token with ''none'' permissions: .github/workflows/zizmor.yml:1'
+      - 'Info: no jobLevel write permissions found'
+  - name: CII-Best-Practices
+    score: 0
+    reason: no effort to earn an OpenSSF best practices badge detected
+    details: null
+  - name: Binary-Artifacts
+    score: 10
+    reason: no binaries found in the repo
+    details: null
+  - name: Pinned-Dependencies
+    score: 10
+    reason: all dependencies are pinned
+    details:
+      - 'Info:  13 out of  13 GitHub-owned GitHubAction dependencies pinned'
+      - 'Info:   3 out of   3 third-party GitHubAction dependencies pinned'
+  - name: Security-Policy
+    score: 0
+    reason: security policy file not detected
+    details:
+      - 'Warn: no security policy file detected'
+      - 'Warn: no security file to analyze'
+      - 'Warn: no security file to analyze'
+      - 'Warn: no security file to analyze'
+  - name: License
+    score: 10
+    reason: license file detected
+    details:
+      - 'Info: project has a license file: LICENSE:0'
+      - 'Info: FSF or OSI recognized license: Apache License 2.0: LICENSE:0'
+  - name: Branch-Protection
+    score: -1
+    reason: 'internal error: error during branchesHandler.setup: internal error: some github tokens can''t read classic branch protection rules: https://github.com/ossf/scorecard-action/blob/main/docs/authentication/fine-grained-auth-token.md'
+    details: null
+  - name: Signed-Releases
+    score: -1
+    reason: no releases found
+    details: null
+  - name: Fuzzing
+    score: 0
+    reason: project is not fuzzed
+    details:
+      - 'Warn: no fuzzer integrations found'
+  - name: SAST
+    score: 9
+    reason: SAST tool is not run on all commits -- score normalized to 9
+    details:
+      - 'Warn: 28 commits out of 29 are checked with a SAST tool'
+---

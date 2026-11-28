@@ -2,99 +2,99 @@ about:
   description: "Performant financial charts built with HTML5 canvas"
   license: Apache-2.0
   homepage: https://www.tradingview.com/lightweight-charts/
-  head: dbd6ae7
+  head: cd3aba9
   archived: false
   latestVersion: "plugins-2026-11-13"
   latestRelease: "plugins-2026-11-13"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T08:49:00Z
+  collectedAt: 2026-11-28T08:02:16Z
 timeline:
   created: 2019-05-24
-  lastCommit: 2026-11-18
+  lastCommit: 2026-11-27
   lastVersion: 2026-11-13
   lastRelease: 2026-11-13
   lastPrerelease: 
 popularity:
-  star: 17996
-  watcher: 205
-  fork: 2742
+  star: 18007
+  watcher: 204
+  fork: 2746
   release: 51
   contributor: 77
-  pullRequest: 712
-  issue: 1194
+  pullRequest: 714
+  issue: 1195
 language:
-  TypeScript: 3153334
+  TypeScript: 3155521
   JavaScript: 2095758
   HTML: 440179
   MDX: 389242
   CSS: 69554
   Vue: 11974
   Shell: 6270
-totalBytes: 6166311
+totalBytes: 6168498
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 2
     mergedPR: 25
-    openPR: 14
+    openPR: 7
     closedIssue: 0
-    openIssue: 4
-    commit: 95
+    openIssue: 5
+    commit: 96
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 2
     mergedPR: 50
-    openPR: 15
+    openPR: 8
     closedIssue: 1
-    openIssue: 4
-    commit: 159
-  last90d:
-    since: 2026-08-29
-    release: 3
-    mergedPR: 75
-    openPR: 16
-    closedIssue: 3
     openIssue: 5
-    commit: 342
-  last180d:
-    since: 2026-05-31
-    release: 4
-    mergedPR: 84
-    openPR: 16
-    closedIssue: 5
+    commit: 160
+  last90d:
+    since: 2026-08-30
+    release: 3
+    mergedPR: 76
+    openPR: 9
+    closedIssue: 3
     openIssue: 6
-    commit: 364
+    commit: 343
+  last180d:
+    since: 2026-06-01
+    release: 4
+    mergedPR: 85
+    openPR: 9
+    closedIssue: 5
+    openIssue: 7
+    commit: 365
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 6
-    mergedPR: 104
-    openPR: 17
-    closedIssue: 20
-    openIssue: 14
-    commit: 420
+    mergedPR: 105
+    openPR: 10
+    closedIssue: 19
+    openIssue: 15
+    commit: 421
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 16
-    mergedPR: 173
-    openPR: 17
+    mergedPR: 174
+    openPR: 10
     closedIssue: 130
-    openIssue: 40
-    commit: 899
+    openIssue: 41
+    commit: 900
 total:
   release: 51
-  mergedPR: 574
-  openPR: 17
+  mergedPR: 575
+  openPR: 10
   closedIssue: 1092
-  openIssue: 102
-  commit: 3587
+  openIssue: 103
+  commit: 3588
 ---
 path: /home/runner/.x-repo/github.com/tradingview/lightweight-charts
-collectedAt: 2026-11-27T08:50:01Z
+collectedAt: 2026-11-28T08:03:18Z
 loc:
   TypeScript:
-    code: 66625
-    comments: 12999
-    blanks: 10542
+    code: 66660
+    comments: 13008
+    blanks: 10545
     files: 808
   JavaScript:
     code: 56487
@@ -152,9 +152,9 @@ loc:
     blanks: 8110
     files: 231
 total:
-  code: 178263
-  comments: 38163
-  blanks: 30229
+  code: 178298
+  comments: 38172
+  blanks: 30232
   files: 2440
 ---
 date: "2026-11-16"
